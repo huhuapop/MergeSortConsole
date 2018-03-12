@@ -1,0 +1,6 @@
+c:\users\huhuapop\documents\visual studio 2015\Projects\MergeSortConsole\MergeSortConsole\bin\Debug\MergeSortConsole.exe.config
+C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\MergeSortConsole\MergeSortConsole\obj\Debug\MergeSortConsole.csprojResolveAssemblyReference.cache
+C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\MergeSortConsole\MergeSortConsole\bin\Debug\MergeSortConsole.exe
+C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\MergeSortConsole\MergeSortConsole\bin\Debug\MergeSortConsole.pdb
+C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\MergeSortConsole\MergeSortConsole\obj\Debug\MergeSortConsole.exe
+C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\MergeSortConsole\MergeSortConsole\obj\Debug\MergeSortConsole.pdb
